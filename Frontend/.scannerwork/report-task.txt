@@ -1,0 +1,6 @@
+projectKey=historia_y_vida
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=historia_y_vida
+ceTaskId=AYldeON4lulHzEXUqCO2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYldeON4lulHzEXUqCO2
